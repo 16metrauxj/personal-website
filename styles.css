@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Lora|Open+Sans+Condensed:300|Kaushan+Script);
+
+body {
+	background-color: navy;
+	font-family: 'Lora', serif;
+}
+h1 {
+	color: pink; 
+	font-family: 'Kaushan Script', cursive;
+}
+
+#p1{
+	color: grey;
+}
+
+#p2{
+	color: white;
+}
+a:link, a:visited {
+	color: white;
+}
+ 
+p {
+	color: pink;
+}
+
+p.hello
+{
+	color: white;
+}
